@@ -1,5 +1,5 @@
 # Pengolahan Citra Digital
 
-**Nama:** Novianti Ramadhani
-**NIM:** 24260011
+**Nama:** Novianti Ramadhani<br>
+**NIM:** 24260011<br>
 **Mata Kuliah:** Pengolahan Citra Digital
